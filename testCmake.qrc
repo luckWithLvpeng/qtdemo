@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/bbb.png</file>
+    </qresource>
+</RCC>
